@@ -1,6 +1,8 @@
 # Promptrix
 
-<img src="logo.png" alt="Promptrix" width="380">
+<p align="center">
+  <img src="logo.png" alt="Promptrix" width="380">
+</p>
 
 ### GenAI Data Protection for the Browser
 
