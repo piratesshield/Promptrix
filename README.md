@@ -11,7 +11,8 @@ Promptrix inspects that content **in the browser, before it reaches the provider
 secrets in prompts, inspecting file uploads, and streaming every decision to your SIEM.
 
 No proxy. No traffic interception. No TLS inspection. **Detection runs entirely on the endpoint.**
-Chrome Extension Store Link : https://chromewebstore.google.com/detail/promptrix-genai-dlp/jjfljebjpklflhbbjfjaimcenfkmfbjn
+
+## Chrome Extension Store Link : https://chromewebstore.google.com/detail/promptrix-genai-dlp/jjfljebjpklflhbbjfjaimcenfkmfbjn
 <img width="1536" height="1024" alt="ChatGPT Image Sep 16, 2026, 09_04_36 AM" src="https://github.com/user-attachments/assets/3efbd7a3-7a8b-4055-bd91-936ff0364490" />
 
 
